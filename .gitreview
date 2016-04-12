@@ -1,0 +1,5 @@
+[gerrit]
+host=review.sh.99cloud.net
+port=29418
+project=openstack/ceilometer.git
+defaultbranch=99cloud/stable/liberty
